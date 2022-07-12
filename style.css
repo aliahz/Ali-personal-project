@@ -1,0 +1,106 @@
+/* header */
+.container{
+width: 1185px;
+margin: 0 auto;
+}
+
+#header{
+background-color: #ffffff;
+margin-top: 15px;
+
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+
+}
+
+a{
+    font-family: poppins;
+    text-decoration: none;
+}
+
+/* header design */
+#header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    padding: 1px 0; 
+}
+
+/* header right links design */
+.header-right a{
+text-decoration: none;
+color: #666;
+font-family: poppins;
+font-size: 12px;
+margin-left: 21px;
+}
+
+.header-right div{
+
+    display: inline-block;
+    
+}
+
+.header-right img{
+    vertical-align: middle;
+}
+
+.header-right a:hover{
+    color: #8490ff;
+}
+
+
+/* logo */
+.logo{
+    text-align: left;
+}
+
+/* main body one 1 */
+#this-isme .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* paragraph */
+.lecture{
+    color: #777777;
+    margin-bottom: 20px;
+}
+
+#this-isme{
+    margin-top: 25px;
+    background-color: #f9f9ff;
+}
+
+.p1{
+ 
+ 
+
+}
+
+.p2{
+    font-size: 65px;
+    font-weight: 600;
+    
+
+
+}
+
+.me-left a{
+    color: white;
+    background-color: #8490ff;
+    padding: 10px 20px;
+   
+}
