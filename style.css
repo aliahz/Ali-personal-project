@@ -86,7 +86,7 @@ margin-left: 21px;
 
 .p1{
  
- 
+ opacity: 100%;
 
 }
 
@@ -104,3 +104,31 @@ margin-left: 21px;
     padding: 10px 20px;
    
 }
+
+/* second body */
+#second-img .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+#second-img .p2{
+    font-size: 50px;
+}
+
+.about-me a{
+    color: white;
+    background-color: #8490ff;
+    padding: 10px 20px;
+}
+
+/* extra paragraph */
+
+#services{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 60px 100px;
+}
+
